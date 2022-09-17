@@ -14,5 +14,7 @@ public class main {
         System.out.println("Output of Feature 2: ");
         System.out.println(Arrays.toString(result_two));
 
+        // all the things are done and posted
+
     }
 }

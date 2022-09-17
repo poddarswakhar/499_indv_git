@@ -5,6 +5,6 @@
  
  To run this program please run the src/main.java file
  <br>
- To run the tests please run tests/unitTest.java file
+ To run the tests please run tests/tests.java file
  
  
